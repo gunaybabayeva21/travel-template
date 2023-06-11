@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 10 Jun 2023 23:38:02 at https://creativelayers.net/themes/gotrip-html/home-3.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://creativelayers.net/themes/gotrip-html/home-3.html*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://creativelayers.net/themes/gotrip-html/home-3.html -O1 "C:\Users\99450\Desktop\Travel\travell" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://creativelayers.net/themes/gotrip-html/home-3.html* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:43:29	Error: 	"Not Found" (404) at link https://creativelayers.net/themes/gotrip-html/blog-single-1.html (from https://creativelayers.net/themes/gotrip-html/home-6.html)
+23:43:29	Error: 	"Not Found" (404) at link https://creativelayers.net/themes/gotrip-html/slide-up delay-3 (from https://creativelayers.net/themes/gotrip-html/blog-list-2.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 28 seconds : 382 links scanned, 379 files written (56318280 bytes overall) [41308173 bytes received at 125939 bytes/sec], 16281575 bytes transferred using HTTP compression in 69 files, ratio 7%, 5.1 requests per connection
+(2 errors, 0 warnings, 0 messages)
